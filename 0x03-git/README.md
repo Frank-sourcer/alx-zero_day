@@ -1,1 +1,1 @@
-My Git
+My Git Repository
